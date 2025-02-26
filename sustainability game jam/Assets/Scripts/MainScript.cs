@@ -70,10 +70,7 @@ public class MainScript : MonoBehaviour
         Upmenu = 1;
     }
 
-    public void OnClick()
-    {
-        CurrentValue += ClickValue;
-    }
+
     
     public void OnUu()
     {
