@@ -14,6 +14,7 @@ public class MainScript : MonoBehaviour
     public Canvas up1;
     public Canvas up2;
     public Canvas up3;
+    public GameObject spawnscr;
     // Start is called before the first frame update
     void Start()
     {
@@ -87,6 +88,10 @@ public class MainScript : MonoBehaviour
         {
             Upmenu = 1;
         }
+
+    }
+    public void upg1()
+    {
 
     }
 }

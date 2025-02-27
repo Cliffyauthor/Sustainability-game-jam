@@ -133,6 +133,7 @@ MonoBehaviour:
   up1: {fileID: 2345675885365772989}
   up2: {fileID: 5719831483009401135}
   up3: {fileID: 5300727758755822218}
+  spawnscr: {fileID: 5482223872261636564}
 --- !u!1 &1318825252460457053
 GameObject:
   m_ObjectHideFlags: 0
